@@ -99,5 +99,5 @@ This algorithm is one of the most efficient ways to sort an array of `0`s, `1`s,
 Feel free to fork this repository, suggest improvements, or report any issues!
 
 ---
-**Author:** _Your Name Here_  
+**Author:** Shaldon Barnes  
 **License:** MIT
