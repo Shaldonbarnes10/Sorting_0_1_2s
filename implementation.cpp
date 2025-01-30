@@ -1,3 +1,4 @@
+//implementation of array sorting using three pointer method
 #include<iostream>
 #include<array>
 using namespace std;
