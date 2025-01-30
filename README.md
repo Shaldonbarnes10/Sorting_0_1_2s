@@ -1,4 +1,4 @@
-# Sorting an Array of 0s, 1s, and 2s using the Three-Pointer Approach
+# Sorting an Array of 0s, 1s, and 2s using the Three-Pointer Approach (Dutch National Flag Algorithm)
 
 ## Overview
 This repository implements an efficient algorithm to sort an array consisting of only `0`s, `1`s, and `2`s. The algorithm follows the **Dutch National Flag Algorithm**, which uses three pointers to partition the array in a single pass, ensuring an optimal time complexity of **O(n)**.
